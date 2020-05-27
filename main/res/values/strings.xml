@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeamActivity06</string>
+    <string name="button_even">Run Even</string>
+    <string name="button_odd">Run Odd</string>
+</resources>
